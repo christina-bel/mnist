@@ -1,2 +1,2 @@
 # mnist
-This code uses neural networks to define hand-written numbers
+This code uses neural networks to define hand-written numbers. 
